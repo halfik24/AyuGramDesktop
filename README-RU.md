@@ -1,3 +1,9 @@
+> **Об этой сборке**
+>
+> Этот форк собран из оригинального Telegram Desktop с наложенными фичами
+> AyuGram. В основе — Telegram Desktop **7.2.9** — актуальная stable-версия
+> на момент обновления.
+
 # AyuGram
 
 ![AyuGram Лого](.github/AyuGram.png) ![AyuChan](.github/AyuChan.png)

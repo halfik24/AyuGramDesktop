@@ -1,3 +1,9 @@
+> **About this build**
+>
+> This fork is assembled from the original Telegram Desktop with the AyuGram
+> features merged on top. The base is Telegram Desktop **7.2.9** — the current
+> stable release at the time of this update.
+
 # AyuGram
 
 ![AyuGram Logo](.github/AyuGram.png) ![AyuChan](.github/AyuChan.png)
